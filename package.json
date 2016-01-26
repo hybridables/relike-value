@@ -5,13 +5,13 @@
   "repository": "hybridables/relike-value",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "main": "index.js",
-  "license": "MIT", 
+  "license": "MIT",
   "scripts": {
     "test": "standard && node test.js"
   },
   "dependencies": {
     "isarray": "^1.0.0",
-    "relike": "^1.0.1",
+    "relike": "^1.0.3",
     "sliced": "^1.0.1"
   },
   "devDependencies": {
