@@ -10,14 +10,14 @@
     "test": "standard && node test.js"
   },
   "dependencies": {
-    "isarray": "^1.0.0",
+    "isarray": "^2.0.1",
     "relike": "^1.0.1",
     "sliced": "^1.0.1"
   },
   "devDependencies": {
     "assertit": "^0.1.0",
     "is-buffer": "^1.1.0",
-    "isarray": "1.0.0",
+    "isarray": "2.0.1",
     "pinkie": "^2.0.1",
     "semver": "^5.0.3"
   },
